@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "yanhh3d",
+      "name": "YanHH3D",
+      "version": "1.0.0",
+      "scriptUrl": "https://raw.githubusercontent.com/Chumvn/gfilm-plugins/main/plugins/yanhh3d_plugin.js",
+      "iconUrl": "https://yanhh3d.ee/wp-content/uploads/2025/12/cropped-ff808081984378e80198450a293f07ec-large-300x300.png",
+      "description": "Hoạt Hình Trung Quốc 3D Thuyết Minh & VietSub 4K (yanhh3d.ee)",
+      "author": "Chum",
+      "baseUrl": "https://yanhh3d.ee",
+      "type": "movie",
+      "isEnabled": true,
+      "isVip": false,
+      "isAdult": false,
+      "openvax": "true"
+    }
+  ]
+}
